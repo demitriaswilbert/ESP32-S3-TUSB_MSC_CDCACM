@@ -1,0 +1,28 @@
+{
+"C_Cpp.intelliSenseEngine": "default",
+"idf.adapterTargetName": "esp32s3",
+"idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+],
+"idf.portWin": "COM13",
+"idf.flashType": "JTAG",
+"files.associations": {
+    "*.json": "json",
+    "freertos.h": "c",
+    "esp_timer.h": "c",
+    "tusb_msc_storage.h": "c",
+    "errno.h": "c",
+    "queue.h": "c",
+    "tinyusb.h": "c",
+    "stdint.h": "c",
+    "dirent.h": "c",
+    "esp_partition.h": "c",
+    "esp_log.h": "c",
+    "tusb_cdc_acm.h": "c",
+    "*.tcc": "c",
+    "format": "c",
+    "bitset": "c",
+    "string_view": "c",
+    "regex": "c"
+}
+}
